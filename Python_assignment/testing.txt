@@ -2,4 +2,3 @@ hello
 hi
 how are you
 
-how 
